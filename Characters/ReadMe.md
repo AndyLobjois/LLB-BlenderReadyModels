@@ -1,7 +1,7 @@
 ### Character Blend Files and Packages Progress
 
 BRM total progress: **100%**  
-Packages total progress: **78%** (25/36)
+Packages total progress: **78%** (28/36)
 
 | Characters | Outfit 1 | Outfit 2 | DLC Outfit | Package Author |
 | :---: | :---: | :---: | :---: | :---: |
