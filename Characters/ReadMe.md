@@ -1,8 +1,8 @@
 ### Character Blend Files and Packages Progress
 
 BRM total progress: **100%**  
-Packages total progress: **89%** (32/36)  
-Voice total progress: **25%** (3/12)
+Packages total progress: **92%** (33/36)  
+Voice total progress: **33%** (4/12)
 
 | Characters | Outfit 1 | Outfit 2 | DLC Outfit | Voice | Package Author |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -10,7 +10,7 @@ Voice total progress: **25%** (3/12)
 | Switch | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ♫ | Daioutzu / Aru |
 | Candyman | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Aru |
 | Sonata | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ♫ | Aru |
-| Latch | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: No](https://img.shields.io/badge/-Package-red) | | Manndarinchik |
+| Latch | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ♫ | Manndarinchik / Aru |
 | Dice | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Daioutzu |
 | Jet | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Aru |
 | Nitro | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Hang / Aru |
