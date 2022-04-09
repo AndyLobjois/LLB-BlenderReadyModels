@@ -1,2 +1,2 @@
 ## Known Issues
-    • Camera/FOV/Light Controllers aren't set correctly
+   • ~~Camera/FOV/Light Controllers aren't set correctly~~ [Fixed]
