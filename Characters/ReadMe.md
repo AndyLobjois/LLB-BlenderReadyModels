@@ -1,8 +1,8 @@
 ### Character Blend Files and Packages Progress
 
 BRM total progress: **100%**  
-Packages total progress: **92%** (33/36)  
-Voice total progress: **33%** (4/12)
+Packages total progress: **100%** (36/36)  
+Voice total progress: **42%** (5/12)
 
 | Characters | Outfit 1 | Outfit 2 | DLC Outfit | Voice | Package Author |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -15,6 +15,6 @@ Voice total progress: **33%** (4/12)
 | Jet | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Aru |
 | Nitro | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Hang / Aru |
 | Grid | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ♫ | Aru |
-| Doombox | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: No](https://img.shields.io/badge/-Package-red) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: No](https://img.shields.io/badge/-Package-red)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: No](https://img.shields.io/badge/-Package-red) | |  |
+| Doombox | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ♫ | Aru |
 | Toxic | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green)  | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Aru |
 | Dust & Ashes | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | ![BRM: Yes](https://img.shields.io/badge/-BRM-green) ![Package: Yes](https://img.shields.io/badge/-Package-green) | | Aru |
